@@ -8,7 +8,7 @@
 
 /* #1. */
 SELECT population FROM world
-  WHERE name = 'Germany';
+WHERE name = 'Germany';
 
 /* #2. */
 SELECT name, population FROM world
