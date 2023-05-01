@@ -1,6 +1,6 @@
 # sqlZoo
 
-These are answers to SQL Zoo's lessons 1 - 9, including of +/- lessons in that range. 
+These are answers to SQL Zoo's lessons 1 - 9, including the +/- lessons in that range. 
 
 In case anyone is out there, trying to complete these problem sets and runs into similar problems. I completed the exercises on 5/1/2023. As of today, the MySQL option does not work for any problem. 
 
